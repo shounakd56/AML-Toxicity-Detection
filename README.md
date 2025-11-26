@@ -1,6 +1,10 @@
 # Toxicity Detection in Code-Mixed Hinglish Text
-EE782 – Applied Machine Learning Course Project  
+Course Project: EE782 – Advanced Topics in Machine Learning  
+Instructor: Prof. Amit Sethi
 Indian Institute of Technology Bombay
+
+Video: https://drive.google.com/file/d/1cUjEn-8cMme77eh_RoTU-M54oZIVMx44/view?usp=sharing
+
 
 ## Overview
 This project addresses toxicity detection in Hinglish social media text, a mix of Hindi and English written in Roman script. Existing toxicity detection systems trained on monolingual English struggle with Hinglish due to transliteration variations, spelling inconsistencies, and informal grammar.  
